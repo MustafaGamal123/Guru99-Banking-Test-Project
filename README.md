@@ -116,22 +116,3 @@ Manual testing project for a banking web application covering customer managemen
 
 ---
 
-## 🔗 Documentation
-📎 [Link to Test Documentation Folder](#)  
-📎 [Bug Reports (Excel)](#)  
-📎 [Test Summary Report (PDF)](#)
-
-> _(Upload your actual Excel and PDF files later using **Add file → Upload files**)_
-
----
-
-## 📧 Contact
-**Mostafa [Your Last Name]**  
-📩 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-
----
-
-⭐ **Tip:**  
-Include this project link in your CV and LinkedIn like this:  
-`GitHub: https://github.com/MostafaUserName/Guru99-Banking-Test-Project`
